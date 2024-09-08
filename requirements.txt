@@ -1,0 +1,4 @@
+playwright==1.46.0
+SQLAlchemy==2.0.32
+python-dotenv
+requests
