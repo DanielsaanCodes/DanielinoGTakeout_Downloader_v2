@@ -67,7 +67,7 @@ G2FA_KEY=your_2fa_key</code></pre>
       <li>Press <strong>1</strong> to reset the database and start a new download session. This will delete previous progress and allow you to start fresh.</li>
       <li>Press <strong>2</strong> to resume downloads from where they left off using the existing database.</li>
     </ul>
-    <pre><code>python main.py</code></pre>
+    <pre><code>python start_benvenuto.py</code></pre>
     <p>Downloads will be saved in the <code>downloads</code> folder. If the download is interrupted, the script will automatically resume from the last successful download.</p>
   </li>
 </ol>
