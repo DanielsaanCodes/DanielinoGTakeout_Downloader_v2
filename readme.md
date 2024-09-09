@@ -8,6 +8,7 @@
 
 <h2>Overview</h2>
 <p>
+  [Guarda il video su YouTube](https://youtube.com/watch?v=34gGnnnN138)
   The <strong>Danielino Google Takeout Downloader</strong> is a Python-based tool designed to automate and simplify the downloading of Google Takeout archives. It efficiently manages common issues like download interruptions, failures, and file tracking. The tool logs in automatically, handles two-factor authentication, and resumes downloads if interrupted.
 </p>
 <p><em>Note:</em> This software was developed quickly to meet a personal need and may contain bugs. It is provided as-is, with the hope that it may be useful or serve as a basis for further development.</p>
@@ -29,7 +30,7 @@
 <h2>Installation</h2>
 <ol>
   <li><strong>Clone the Repository:</strong>
-    <pre><code>git clone https://github.com/repo...git
+    <pre><code>git clone https://github.com/DanielsaanCodes/DanielinoGTakeout_Downloader_v2.git
 cd Danielino_GoogleTakeout_Downloader</code></pre>
   </li>
 
@@ -54,7 +55,7 @@ G2FA_KEY=your_2fa_key</code></pre>
 <ol>
   <li><strong>Prepare Your Google Takeout Email:</strong>
     <ul>
-      <li>Open the Google Takeout email in your browser.</li>
+      <li>Open the Google Takeout email in your browser -> [Watch video on YouTube](https://youtube.com/watch?v=34gGnnnN138).</li> 
       <li>Save the email as an HTML file.</li>
       <li>Place the saved file in the <code>htmlstarter</code> folder and rename it to <code>mailButtons.html</code>.</li>
     </ul>
