@@ -101,7 +101,15 @@ G2FA_KEY=your_2fa_key</code></pre>
 <p>If you encounter bugs or have suggestions for improvement, please let me know by opening an issue in the GitHub repository.</p>
 
 <h2>Support My Work</h2>
+
 <p>If you find this tool helpful, consider supporting me by subscribing to my YouTube channel: <a href="https://www.youtube.com/@Daanielsan" target="_blank">Daanielsan</a>.</p>
+
+## Offrimi un caffè ☕
+
+Se ti piace il mio lavoro e desideri supportarmi, puoi offrirmi un caffè con una piccola donazione. Ogni contributo è molto apprezzato! ☕❤️
+
+[Offrimi un caffè su PayPal](https://www.paypal.com/donate/?hosted_button_id=VLBL9BXPJVY2S)
+
 
 <h2>License</h2>
 <p>This project is licensed under the MIT License. Feel free to use and modify it as needed.</p>
